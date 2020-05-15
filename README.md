@@ -3,7 +3,7 @@ Copyright (c) 2009, Luis Quesada Torres - https://github.com/lquesada | www.luis
 
 # Cursos_Informatica
 
-Material de cursos de apoyo de informatica.
+Material de cursos de apoyo de informatica que facilite en 2009.
 
 ## Licencia
 
